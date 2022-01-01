@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nefarioum?tab=repositories](https://github.com/Nefarioum?tab=repositories)
 
-- 📝 Check out a little video-based site I created [nefarious.tech/nefarious](nefarious.tech/nefarious)
+- 📝 Check out a little video-based site I created [nefarious.tech/nefarious](https://nefarious.tech/nefarious)
 
 - 💬 Ask me about **javascript & laravel**
 
