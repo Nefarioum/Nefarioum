@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nefarious</h1>
 <h3 align="center">A full stack developer and cyber security enthusiast.</h3>
 
-- 🔭 I’m currently working on [RAGE MP Development for MCRP](https://mafiacity-rp.com)
+- 🔭 I’m currently taking commisions!
 
 - 🌱 I’m currently learning **Cyber Security & Higher level Math**
 
